@@ -1,0 +1,22 @@
+SOEN 6441 Project - Build 3
+
+== Team F ==
+ALOMARI, Zakaria
+IU, Kelvin King Man
+PENKOH JOUONANG, Babeth Kelly
+SHARMA, Tarnum
+
+== Archive Content ==
+dist\javadoc\*              - Code documentations (Java docs)
+lib                         - thirdparty library JARs
+nbproject\*                 - NetBean project related files
+src\*                       - Program source code
+test\*                      - Unit tests source code
+*.xml                       - Resource files used in unit tests
+SOEN6441_Project_Build3.doc - Design document
+
+== Instructions ==
+1. Extract archive content into a folder
+2. In NetBean 7.2.1, open project and point to the above folder. The project name is "KingdomsGame"
+3. The NetBean project is setup to have soen6441.kingdoms.Main as the program Main class so you should be able to press F6 to build and run the project
+4. To run the unit tests suite, press Alt+F6 in NetBean.
